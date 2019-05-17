@@ -1,0 +1,19 @@
+company
+    name Company_NameSSS name
+    offices
+        office
+            employees
+                employeeEmp1employee
+                employeEmp2</employee
+                employee>Emp3</employee
+            /employees>
+        office
+        <office
+            employees
+                employee>Emp4</employee
+                employee>Emp5</employe
+                employee>Emp6</employe
+            /employees>
+        office
+    offices
+company

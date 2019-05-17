@@ -1,0 +1,19 @@
+<company>
+    <name>Company_Name</name>
+    <offices>
+        <office>
+            <employees>
+                <employee>Emp1</employee>
+                <employee>Emp2</employee>
+                <employee>Emp3</employee>
+            </employees>
+        </office>
+        <office>
+            <employees>
+                <employee>Emp4</employee>
+                <employee>Emp5</employee>
+                <employee>Emp6</employee>
+            </employees>
+        </office>
+    </offices>
+</company>
